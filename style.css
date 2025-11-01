@@ -1,6 +1,7 @@
 body{
     margin: 0;
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color:white;
 }
 .header{
     width: 100%;
@@ -135,4 +136,5 @@ footer div{
     text-decoration: underline;
     color: red;
 }
+
 
